@@ -3,13 +3,14 @@ def main():
         userInput = input("Anna syöte (Lopeta lopettaa): ")
         if userInput == "Lopeta":
             break
-        elif len(userInput) <= 0:
-            otherFunction(userInput)
+        length = otherFunction(userInput)
+        if length <= 0:
+            print("Et antanut syötettä")
         else:
-            otherFunction()
+            print("Antamasi syöte oli", length, "merkkiä pitkä.")
 
-def otherFunction(value = "Oletustulostus"):
-    print(value)
+def otherFunction(value):
+    return len(value)
 
 if __name__ == "__main__":
     main()

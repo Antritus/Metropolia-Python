@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="06409947-40aa-4d70-b173-1af117b1742a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/t9-1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/t9-2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/t9-3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/t9-4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/t9-4.py" beforeDir="false" afterPath="$PROJECT_DIR$/t9-4.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,31 +28,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.main.executor": "Run",
-    "Python.t3-1.executor": "Run",
-    "Python.t4-1.executor": "Run",
-    "Python.t4-2.executor": "Run",
-    "Python.t4-3.executor": "Run",
-    "Python.t5-1.executor": "Run",
-    "Python.t6-4.executor": "Debug",
-    "Python.t7-3.executor": "Run",
-    "Python.t7-4.executor": "Run",
-    "Python.t8-3.executor": "Run",
-    "Python.t9-3.executor": "Run",
-    "Python.t9.2.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "ai.playground.ignore.import.keys.banner.in.settings": "true",
-    "git-widget-placeholder": "master",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.t3-1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.t4-1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.t4-2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.t4-3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.t5-1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.t6-4.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.t7-3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.t7-4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.t8-3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.t9-3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.t9.2.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;ai.playground.ignore.import.keys.banner.in.settings&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Metropolia" />
@@ -90,7 +87,6 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-PY-253.29346.308" />
         <option value="bundled-python-sdk-ca5e2b39c7df-6e1f45a539f7-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.29346.308" />
       </set>
     </attachedChunks>
@@ -105,6 +101,7 @@
       <workItem from="1768813059983" duration="3429000" />
       <workItem from="1768902239742" duration="7280000" />
       <workItem from="1769067808660" duration="2686000" />
+      <workItem from="1769076573278" duration="18000" />
     </task>
     <servers />
   </component>
