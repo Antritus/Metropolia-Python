@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="06409947-40aa-4d70-b173-1af117b1742a" name="Changes" comment="Tehtävä 4 viimeistely">
-      <change afterPath="$PROJECT_DIR$/t11-1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/t11-2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/t11-3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/t11-4.py" afterDir="false" />
+    <list default="true" id="06409947-40aa-4d70-b173-1af117b1742a" name="Changes" comment="Day 5">
+      <change afterPath="$PROJECT_DIR$/t12-1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t12-2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t12-3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t12-4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t13-1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t13-2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t13-3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t13-4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,33 +35,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.T10-5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.t10-1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.t3-1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.t4-1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.t4-2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.t4-3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.t5-1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.t6-4.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.t7-3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.t7-4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.t8-3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.t9-3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.t9.2.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;ai.playground.ignore.import.keys.banner.in.settings&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.T10-5.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.t10-1.executor": "Run",
+    "Python.t12-1.executor": "Run",
+    "Python.t12-4.executor": "Run",
+    "Python.t3-1.executor": "Run",
+    "Python.t4-1.executor": "Run",
+    "Python.t4-2.executor": "Run",
+    "Python.t4-3.executor": "Run",
+    "Python.t5-1.executor": "Run",
+    "Python.t6-4.executor": "Debug",
+    "Python.t7-3.executor": "Run",
+    "Python.t7-4.executor": "Run",
+    "Python.t8-3.executor": "Run",
+    "Python.t9-3.executor": "Run",
+    "Python.t9.2.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "ai.playground.ignore.import.keys.banner.in.settings": "true",
+    "git-widget-placeholder": "master",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Metropolia" />
@@ -116,7 +122,15 @@
       <option name="project" value="LOCAL" />
       <updated>1769079633704</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Day 5">
+      <option name="closed" value="true" />
+      <created>1769416084691</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1769416084691</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -124,7 +138,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Tehtävä 4 viimeistely" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tehtävä 4 viimeistely" />
+    <MESSAGE value="Day 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 5" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Metropolia$t5_1.coverage" NAME="t5-1 Coverage Results" MODIFIED="1768819340296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
