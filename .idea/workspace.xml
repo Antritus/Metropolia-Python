@@ -2,46 +2,53 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="06409947-40aa-4d70-b173-1af117b1742a" name="Changes" comment="Päivä 5">
-      <change beforePath="$PROJECT_DIR$/T10-5.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-alkeet/T10-5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/muistio.txt" beforeDir="false" afterPath="$PROJECT_DIR$/python-alkeet/muistio.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/t10-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-alkeet/t10-1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/t10-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-alkeet/t10-2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/t10-3.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-alkeet/t10-3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/t10-4.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-alkeet/t10-4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/t11-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-alkeet/t11-1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/t11-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-alkeet/t11-2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/t11-3.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-alkeet/t11-3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/t11-4.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-alkeet/t11-4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/t12-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-alkeet/t12-1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/t12-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-alkeet/t12-2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/t12-3.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-alkeet/t12-3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/t12-4.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-alkeet/t12-4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/t13-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-alkeet/t13-1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/t13-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-alkeet/t13-2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/t13-3.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-alkeet/t13-3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/t13-4.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-alkeet/t13-4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/t3-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-alkeet/t3-1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/t3-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-alkeet/t3-2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/t4-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-alkeet/t4-1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/t4-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-alkeet/t4-2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/t4-3.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-alkeet/t4-3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/t5-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-alkeet/t5-1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/t6-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-alkeet/t6-1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/t6-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-alkeet/t6-2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/t6-3.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-alkeet/t6-3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/t6-4.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-alkeet/t6-4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/t6-5.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-alkeet/t6-5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/t7-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-alkeet/t7-1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/t7-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-alkeet/t7-2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/t7-3.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-alkeet/t7-3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/t7-4.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-alkeet/t7-4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/t8-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-alkeet/t8-1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/t8-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-alkeet/t8-2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/t8-3.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-alkeet/t8-3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/t9-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-alkeet/t9-1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/t9-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-alkeet/t9-2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/t9-3.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-alkeet/t9-3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/t9-4.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-alkeet/t9-4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-data-analytics-&amp;-statistics/t2-1--Creating-lists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-data-analytics-&amp;-statistics/t2-3--Janky-funktions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-data-analytics-&amp;-statistics/t2-4--Word-count.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-data-analytics-&amp;-statistics/t2-5--Is-it-prime.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-data-analytics-&amp;-statistics/t2-6--Bank-account.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-data-analytics-&amp;-statistics/t2-7--Fibonacci-with-recursion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-data-analytics-&amp;-statistics/t2-8--Is-it-even.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-alkeet/T10-5.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-alkeet/T10-5--Muisti-kirja.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-alkeet/t10-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-alkeet/t10-1-Random-kolikon-heitto.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-alkeet/t10-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-alkeet/t10-2--Tekstin-pituus.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-alkeet/t10-3.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-alkeet/t10-3--Salasana-testeri.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-alkeet/t10-4.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-alkeet/t10-4--Laskin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-alkeet/t11-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-alkeet/t11-1-Try-Except.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-alkeet/t11-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-alkeet/t11-2--Tulos-tiedostosta.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-alkeet/t11-3.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-alkeet/t11-3--Laskin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-alkeet/t11-4.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-alkeet/t11-4--Muisti-kirja.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-alkeet/t12-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-alkeet/t12-1--Väri-lista.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-alkeet/t12-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-alkeet/t12-2--Lista.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-alkeet/t12-3.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-alkeet/t12-3--Aakkos-järjestys.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-alkeet/t12-4.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-alkeet/t12-4--Muisti-kirja.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-alkeet/t13-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-alkeet/t13-1--Racer-luokka.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-alkeet/t13-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-alkeet/t13-2--Racer-luokka.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-alkeet/t13-3.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-alkeet/t13-3--Racer-luokka.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-alkeet/t13-4.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-alkeet/t13-4--Emo-luokka.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-alkeet/t3-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-alkeet/t3-1--merkkijono.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-alkeet/t3-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-alkeet/t3-2--laskeminen.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-alkeet/t4-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-alkeet/t4-1--pyöristäminen.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-alkeet/t4-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-alkeet/t4-2--newline.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-alkeet/t4-3.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-alkeet/t4-3--yhteen-laskenta.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-alkeet/t5-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-alkeet/t5-1--listan-manipulaatio.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-alkeet/t6-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-alkeet/t6-1--parillinen.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-alkeet/t6-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-alkeet/t6-2--kirjautuminen.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-alkeet/t6-3.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-alkeet/t6-3--matkustus-kohde.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-alkeet/t6-4.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-alkeet/t6-4--parillinen.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-alkeet/t6-5.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-alkeet/t6-5--laskin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-alkeet/t7-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-alkeet/t7-1--while.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-alkeet/t7-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-alkeet/t7-2--while-true.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-alkeet/t7-3.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-alkeet/t7-3--for-range.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-alkeet/t7-4.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-alkeet/t7-4--laskin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-alkeet/t8-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-alkeet/t8-1--tiedostoon-kirjoittaminen.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-alkeet/t8-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-alkeet/t8-2--Tiedosto-salasana-testeri.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-alkeet/t8-3.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-alkeet/t8-3--Muisti-kirja.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-alkeet/t9-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-alkeet/t9-1--kaksi-funktiota.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-alkeet/t9-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-alkeet/t9-2--toinen-potenssi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-alkeet/t9-3.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-alkeet/t9-3--funktiot-oletusarvo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-alkeet/t9-4.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-alkeet/t9-4--funktiot-param-pituus.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,6 +98,7 @@
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "ai.playground.ignore.import.keys.banner.in.settings": "true",
     "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/anttg/PycharmProjects/Metropolia",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
