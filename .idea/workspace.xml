@@ -1,54 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="06409947-40aa-4d70-b173-1af117b1742a" name="Changes" comment="Päivä 5">
-      <change afterPath="$PROJECT_DIR$/python-data-analytics-&amp;-statistics/t2-1--Creating-lists.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-data-analytics-&amp;-statistics/t2-3--Janky-funktions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-data-analytics-&amp;-statistics/t2-4--Word-count.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-data-analytics-&amp;-statistics/t2-5--Is-it-prime.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-data-analytics-&amp;-statistics/t2-6--Bank-account.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-data-analytics-&amp;-statistics/t2-7--Fibonacci-with-recursion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-data-analytics-&amp;-statistics/t2-8--Is-it-even.py" afterDir="false" />
+    <list default="true" id="06409947-40aa-4d70-b173-1af117b1742a" name="Changes" comment="Python ReCap">
+      <change afterPath="$PROJECT_DIR$/python-alkeet/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-data-analytics-and-statistics/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-alkeet/T10-5.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-alkeet/T10-5--Muisti-kirja.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-alkeet/t10-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-alkeet/t10-1-Random-kolikon-heitto.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-alkeet/t10-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-alkeet/t10-2--Tekstin-pituus.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-alkeet/t10-3.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-alkeet/t10-3--Salasana-testeri.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-alkeet/t10-4.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-alkeet/t10-4--Laskin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-alkeet/t11-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-alkeet/t11-1-Try-Except.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-alkeet/t11-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-alkeet/t11-2--Tulos-tiedostosta.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-alkeet/t11-3.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-alkeet/t11-3--Laskin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-alkeet/t11-4.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-alkeet/t11-4--Muisti-kirja.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-alkeet/t12-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-alkeet/t12-1--Väri-lista.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-alkeet/t12-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-alkeet/t12-2--Lista.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-alkeet/t12-3.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-alkeet/t12-3--Aakkos-järjestys.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-alkeet/t12-4.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-alkeet/t12-4--Muisti-kirja.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-alkeet/t13-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-alkeet/t13-1--Racer-luokka.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-alkeet/t13-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-alkeet/t13-2--Racer-luokka.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-alkeet/t13-3.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-alkeet/t13-3--Racer-luokka.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-alkeet/t13-4.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-alkeet/t13-4--Emo-luokka.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-alkeet/t3-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-alkeet/t3-1--merkkijono.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-alkeet/t3-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-alkeet/t3-2--laskeminen.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-alkeet/t4-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-alkeet/t4-1--pyöristäminen.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-alkeet/t4-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-alkeet/t4-2--newline.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-alkeet/t4-3.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-alkeet/t4-3--yhteen-laskenta.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-alkeet/t5-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-alkeet/t5-1--listan-manipulaatio.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-alkeet/t6-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-alkeet/t6-1--parillinen.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-alkeet/t6-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-alkeet/t6-2--kirjautuminen.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-alkeet/t6-3.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-alkeet/t6-3--matkustus-kohde.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-alkeet/t6-4.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-alkeet/t6-4--parillinen.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-alkeet/t6-5.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-alkeet/t6-5--laskin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-alkeet/t7-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-alkeet/t7-1--while.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-alkeet/t7-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-alkeet/t7-2--while-true.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-alkeet/t7-3.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-alkeet/t7-3--for-range.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-alkeet/t7-4.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-alkeet/t7-4--laskin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-alkeet/t8-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-alkeet/t8-1--tiedostoon-kirjoittaminen.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-alkeet/t8-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-alkeet/t8-2--Tiedosto-salasana-testeri.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-alkeet/t8-3.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-alkeet/t8-3--Muisti-kirja.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-alkeet/t9-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-alkeet/t9-1--kaksi-funktiota.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-alkeet/t9-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-alkeet/t9-2--toinen-potenssi.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-alkeet/t9-3.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-alkeet/t9-3--funktiot-oletusarvo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-alkeet/t9-4.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-alkeet/t9-4--funktiot-param-pituus.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,36 +30,41 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.T10-5.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.t10-1.executor": "Run",
-    "Python.t12-1.executor": "Run",
-    "Python.t12-4.executor": "Run",
-    "Python.t3-1.executor": "Run",
-    "Python.t4-1.executor": "Run",
-    "Python.t4-2.executor": "Run",
-    "Python.t4-3.executor": "Run",
-    "Python.t5-1.executor": "Run",
-    "Python.t6-4.executor": "Debug",
-    "Python.t7-3.executor": "Run",
-    "Python.t7-4.executor": "Run",
-    "Python.t8-3.executor": "Run",
-    "Python.t9-3.executor": "Run",
-    "Python.t9.2.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "ai.playground.ignore.import.keys.banner.in.settings": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/anttg/PycharmProjects/Metropolia",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.T10-5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.t10-1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.t12-1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.t12-4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.t3-1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.t4-1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.t4-2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.t4-3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.t5-1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.t6-4.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.t7-3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.t7-4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.t8-3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.t9-3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.t9.2.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;ai.playground.ignore.import.keys.banner.in.settings&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/anttg/PycharmProjects/Metropolia&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\anttg\PycharmProjects\Metropolia\python-data-analytics-and-statistics\Python-ReCap" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Metropolia" />
@@ -177,7 +139,15 @@
       <option name="project" value="LOCAL" />
       <updated>1769424147253</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Python ReCap">
+      <option name="closed" value="true" />
+      <created>1771674685492</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1771674685492</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -187,7 +157,8 @@
     <MESSAGE value="Tehtävä 4 viimeistely" />
     <MESSAGE value="Day 5" />
     <MESSAGE value="Päivä 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="Päivä 5" />
+    <MESSAGE value="Python ReCap" />
+    <option name="LAST_COMMIT_MESSAGE" value="Python ReCap" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Metropolia$t5_1.coverage" NAME="t5-1 Coverage Results" MODIFIED="1768819340296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
